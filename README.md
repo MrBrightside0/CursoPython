@@ -1,10 +1,10 @@
 # 🐍 Curso de Python - Grupo privado 2025
 
-Repositorio de prácticas, ejemplos y tareas para el curso de Python impartido por Ed Mary. Organizado en 4 módulos progresivos: desde fundamentos hasta estructuras complejas y mini proyectos.
+Repositorio de prácticas, ejemplos y tareas para el curso de Python impartido por Edmundo Moreno. Organizado en 4 módulos progresivos: desde fundamentos hasta estructuras complejas y mini proyectos.
 
-> 🎯 Curso estructurado para 4 estudiantes en formato presencial/virtual  
+> 🎯 Curso estructurado para 4 estudiantes en formato virtual  
 > 📍 Local: Desktop > Curso de python  
-> 🧑‍🏫 Instructor: Ed Mary – IA FIME UANL  
+> 🧑‍🏫 Instructor: Edmundo Moreno – IA FIME UANL  
 
 ---
 
@@ -90,9 +90,9 @@ Curso de python/
 
 ## 📬 Contacto
 
-**Instructor:** Ed Mary  
+**Instructor:** Edmundo Moreno
 **Carrera:** Ingeniería en Inteligencia Artificial  
-**Email:** [agrega_tu_correo@aqui.com]
+**Email:** [edmundo.morenog@uanl.edu.mx]
 
 ---
 
